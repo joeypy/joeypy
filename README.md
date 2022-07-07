@@ -2,12 +2,15 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Joseph+Boscán...;Welcome+to+my+github!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Joseph+Boscán....;Welcome+to+my+space+of+code!&center=true&size=30">
   </a>
 </h1>
 
-# technology I use
+# Technologies I use
+
+## Frontend
 <p>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
