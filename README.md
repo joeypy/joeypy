@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=joeypy&theme=blue-green
+<a href="https://github.com/Daggy1234">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeypy&layout=compact" />
+</a>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
