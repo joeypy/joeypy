@@ -91,3 +91,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeypy&layout=compact" />
 </a>
 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,nodejs,nestjs,graphql,py,flask,fastapi,django,postgres,redis&theme=dark)](https://skillicons.dev)
+
