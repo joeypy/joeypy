@@ -6,6 +6,10 @@
   </a>
 </h1>
 
+<ul>
+ <li>Website: <a href="https://josephboscan.dev" target="_blank">Joseph Boscán</a></li>
+</ul>
+
 # Technologies I use
 
 ### Languages
