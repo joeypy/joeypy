@@ -93,7 +93,10 @@
 <br />
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,rust&theme=dark)](https://skillicons.dev)
+<br />
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,angular&theme=dark)](https://skillicons.dev)
+<br />
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,graphql,flask,fastapi,django&theme=dark)](https://skillicons.dev)
+<br />
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark)](https://skillicons.dev)
 
